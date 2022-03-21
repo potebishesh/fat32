@@ -2,8 +2,8 @@
 Contributors: Bishesh Pote, Ayush Bhandari
 
 #### Description
-User space shell application that is capable of interpreting a FAT 32 file system image.
+- User space shell application that is capable of interpreting a FAT 32 file system image.
 
 #### Instructions
-Compilation: g++ mfs.c -o mfs
-Execution: ./mfs
+- Compilation: g++ mfs.c -o mfs
+- Execution: ./mfs
